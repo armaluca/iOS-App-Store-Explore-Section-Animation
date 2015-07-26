@@ -8,6 +8,8 @@ Hopefully you like it!
 
 On Stackoverflow : http://stackoverflow.com/questions/30863738/ios-ui-app-store-explore-section-transition
 
+If you think you could do it differently please leave feedback!
+
 # How these animations look like?
 ![App Store Animation reference](https://github.com/armaluca/iOS-App-Store-Explore-Section-Animation/blob/master/example.gif)
 
