@@ -6,6 +6,11 @@ I was really surprised when, by chance, I discovered these nice animations Apple
 Still I am very curious cause I suppose must be many ways to achieve the same effect!
 Hopefully you like it!
 
+On Stackoverflow : http://stackoverflow.com/questions/30863738/ios-ui-app-store-explore-section-transition
+
+# How these animations look like?
+![App Store Animation reference](https://github.com/armaluca/iOS-App-Store-Explore-Section-Animation/blob/master/example.gif)
+
 
 
 
